@@ -8,13 +8,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DemoCoworkProject
+namespace RORZE
 {
     public partial class Form1 : Form
     {
+        #region Private Field
+        private ITest test;
+        #endregion Private Field
+
         public Form1()
         {
             InitializeComponent();
+            test = new ImpITest();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Text = test.testing();
         }
     }
 }
