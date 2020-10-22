@@ -44,7 +44,6 @@
     <Compile Include="ImpITest.cs" />
     <Compile Include="InternalClass.cs" />
     <Compile Include="ITest.cs" />
-    <Compile Include="TestingClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

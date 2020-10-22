@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace RORZE
 {
-    interface ITest
+    public interface ITest
     {
-        public string testing();
+        string testing();
     }
 }

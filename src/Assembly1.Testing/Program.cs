@@ -10,8 +10,8 @@ namespace RORZE
     {
         static void Main(string[] args)
         {
-            TestingClass test = new TestingClass();
-            Console.WriteLine(test.DoSomething());
+            ITest  aaa = new ImpITest();
+            Console.WriteLine(aaa.testing());
             Console.ReadLine();
         }
     }

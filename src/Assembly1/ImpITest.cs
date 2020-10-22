@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RORZE
 {
-    class ImpITest : ITest
+    public class ImpITest : ITest
     {
         private InternalClass ttt;
 
