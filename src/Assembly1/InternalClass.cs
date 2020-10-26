@@ -16,5 +16,9 @@ namespace RORZE.Assembly
         {
             Console.WriteLine("InternalClass do something!");
         }
+
+
+
+
     }
 }
