@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RORZE
+namespace RORZE.Assembly
 {
     public partial class UserControl1 : UserControl, IUcOutput
     {
