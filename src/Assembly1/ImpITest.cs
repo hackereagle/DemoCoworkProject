@@ -14,6 +14,7 @@ namespace RORZE
         {
             ttt = new InternalClass();
 
+
         }
 
         string ITest.testing()
