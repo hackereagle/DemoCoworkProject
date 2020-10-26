@@ -13,6 +13,7 @@ namespace RORZE
         public ImpITest()
         {
             ttt = new InternalClass();
+
         }
 
         string ITest.testing()
