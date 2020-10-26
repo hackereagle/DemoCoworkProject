@@ -9,5 +9,6 @@ namespace RORZE.Assembly
     public interface ITest
     {
         string testing();
+
     }
 }
