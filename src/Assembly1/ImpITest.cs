@@ -15,6 +15,13 @@ namespace RORZE
             ttt = new InternalClass();
 
 
+
+
+
+
+
+
+            // 123
         }
 
         string ITest.testing()
