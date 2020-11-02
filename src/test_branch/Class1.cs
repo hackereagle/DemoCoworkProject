@@ -8,5 +8,6 @@ namespace test_branch
 {
     public class Class1
     {
+
     }
 }
