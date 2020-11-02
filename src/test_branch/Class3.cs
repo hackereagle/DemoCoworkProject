@@ -8,5 +8,6 @@ namespace test_branch
 {
     class Class3
     {
+
     }
 }
