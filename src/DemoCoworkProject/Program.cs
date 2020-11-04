@@ -18,5 +18,7 @@ namespace RORZE
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }//abc test
+        //rty test
+        //qwe ttt
     }
 }
