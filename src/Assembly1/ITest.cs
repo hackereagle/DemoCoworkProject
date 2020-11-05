@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RORZE
+namespace RORZE.Assembly
 {
     public interface ITest
     {
         string testing();
+
+
     }
 }

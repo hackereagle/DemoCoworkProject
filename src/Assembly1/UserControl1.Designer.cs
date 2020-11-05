@@ -1,4 +1,4 @@
-﻿namespace RORZE
+﻿namespace RORZE.Assembly
 {
     partial class UserControl1
     {

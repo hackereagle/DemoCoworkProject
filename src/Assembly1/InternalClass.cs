@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RORZE
+namespace RORZE.Assembly
 {
     internal class InternalClass
     {
@@ -16,5 +16,9 @@ namespace RORZE
         {
             Console.WriteLine("InternalClass do something!");
         }
+
+
+
+
     }
 }
