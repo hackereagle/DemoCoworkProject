@@ -33,6 +33,7 @@ namespace RORZE
         private void button1_Click(object sender, EventArgs e)
         {
 
+
             this.Text = test.testing();
             this.label1.Text = ucOutput.Text;
         }
