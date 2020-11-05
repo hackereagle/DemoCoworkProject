@@ -29,6 +29,7 @@ namespace RORZE
             ((UserControl)this.ucOutput).TabIndex = 1;
             this.Controls.Add((UserControl)ucOutput);
 
+
         }
 
         private void button1_Click(object sender, EventArgs e)
