@@ -35,6 +35,7 @@ namespace RORZE
             this.Text = test.testing();
             this.label1.Text = ucOutput.Text;
 
+
         }
     }
 }
