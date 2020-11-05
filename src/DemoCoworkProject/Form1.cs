@@ -28,6 +28,7 @@ namespace RORZE
             ((UserControl)this.ucOutput).Size = new System.Drawing.Size(129, 102);
             ((UserControl)this.ucOutput).TabIndex = 1;
             this.Controls.Add((UserControl)ucOutput);
+
         }
 
         private void button1_Click(object sender, EventArgs e)
