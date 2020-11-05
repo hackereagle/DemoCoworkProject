@@ -20,6 +20,7 @@ namespace RORZE
 
         public Form1()
         {
+
             InitializeComponent();
             test = new ImpITest();
             ucOutput = new UserControl1();
